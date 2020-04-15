@@ -1,0 +1,29 @@
+.timeline-wrapper {
+    width: 600px;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch
+  }
+
+  .timeline-wrapper form {
+    width: 100%;
+    background: #E9F2F6;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 30px 0
+  }
+
+  .timeline-wrapper form textarea {
+    border: 3px solid #D8E5EF;
+    border-radius: 5px;
+    font-size: 14px;
+    padding: 15px;
+    width: 100%;
+    resize: none
+  }
+
+  .tweet-list {
+    list-style: none;
+    color: #1C2122
+  }

@@ -1,0 +1,41 @@
+.login-wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center
+}
+
+.login-wrapper form {
+  margin: 20px 0 0;
+  width: 100%;
+  max-width: 280px;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch
+}
+
+.login-wrapper form input {
+  background: #FFF;
+  border: 1px solid #DDD;
+  border-radius: 5px;
+  height: 44px;
+  padding: 0 15px;
+  font-size: 14px
+}
+
+.login-wrapper form button {
+  margin: 10px 0 0;
+  background: #4BC0EE;
+  border-radius: 5px;
+  height: 44px;
+  border: 0;
+  color: #FFF;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 16px
+}
+
+.login-wrapper form button:hover {
+  background: rgb(35, 165, 238)
+}
