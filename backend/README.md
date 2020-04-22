@@ -1,7 +1,25 @@
-## node-twitter
+<div align="center">
+
 # Projeto - API REST Aplicação Twitter Clone
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![Build Status](https://img.shields.io/github/stars/RenanBorba/twitter-clone.svg)](https://github.com/RenanBorba/twitter-clone) [![Build Status](https://img.shields.io/github/forks/RenanBorba/twitter-clone.svg)](https://github.com/RenanBorba/twitter-clone) [![npm version](https://badge.fury.io/js/react-native.svg)](https://badge.fury.io/js/react-native)
+
+</div>
+
+<br>
+
 API REST em Node.js MVC para clone da principal interface do Twitter (Timeline), além da interface inicial de login, possibilitando aos usuários enviar e receber atualizações pessoais de outros contatos. Permite, assim, a atualização em tempo real dos likes nos tweets via WebSocket.<br>
 O projeto é voltado para adaptação da aplicação da Semana Omnistack 0.5 da Rocketseat.
+
+<br><br>
+
+## :rocket: Tecnologias
 <ul>
   <li>Nodemon</li>  
   <li>MongoDB</li>
@@ -11,8 +29,11 @@ O projeto é voltado para adaptação da aplicação da Semana Omnistack 0.5 da 
   <li>Cors</li> 
   <li>socket.io Websocket</li> 
 </ul>
+
 <br><br>
 
+#### Segue abaixo as principais estruturas: 
+<br><br><br>
 
 ## src/routes.js 
 ```js
