@@ -1,4 +1,19 @@
+<div align="center">
+
 # Projeto - Aplicação Twitter Clone
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![Build Status](https://img.shields.io/github/stars/RenanBorba/twitter-clone.svg)](https://github.com/RenanBorba/twitter-clone) [![Build Status](https://img.shields.io/github/forks/RenanBorba/twitter-clone.svg)](https://github.com/RenanBorba/twitter-clone)
+
+</div>
+
+<br>
+
 Aplicação para clone da principal interface do Twitter (Timeline), além da interface inicial de login, possibilitando aos usuários enviar e receber atualizações pessoais de outros contatos. Permite, assim, a atualização em tempo real dos likes nos tweets via WebSocket.<br>
 O projeto é voltado para adaptação da aplicação da Semana Omnistack 0.5 da Rocketseat e estudo das funcionalidades de React Function Components e React Hooks (useState e useEffect).
  
