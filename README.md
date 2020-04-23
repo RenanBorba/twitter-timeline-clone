@@ -25,6 +25,61 @@
 
 Aplicação para clone da principal interface do Twitter (Timeline), além da interface inicial de login, possibilitando aos usuários enviar e receber atualizações pessoais de outros contatos. Permite, assim, a atualização em tempo real dos likes nos tweets via WebSocket.<br>
 O projeto é voltado para adaptação da aplicação da Semana Omnistack 0.5 da Rocketseat e estudo das funcionalidades de React Function Components e React Hooks (useState e useEffect).
+
+<br><br>
+
+## :rocket: Tecnologias
+### Node.js
+<ul>
+  <li>Nodemon</li>  
+  <li>MongoDB</li>
+  <li>Mongoose</li>
+  <li>Routes</li>
+  <li>Express</li>
+  <li>Cors</li> 
+  <li>socket.io Websocket</li> 
+</ul>
+
+<br>
+
+### ReactJS
+
+<ul>
+  <li>Components</li>  
+  <li>Routes</li>
+  <li>react-router-dom</li>
+  <li>Services API</li>
+  <li>Axios</li> 
+  <li>localStorage</li> 
+  <li>useState</li>
+  <li>useEffect</li>
+  <li>socket.io-client Websocket</li>
+  <li>favicon.ico</li>
+  <li>Styles CSS</li>
+  <li>Fonts</li>
+</ul>
+<br>
+
+<br><br>
+
+
+## :arrow_forward: Start
+### Node.js
+<ul> 
+  <li>npm install</li>
+  <li>npm run dev / npm dev</li>
+</ul>
+
+<br>
+
+<ul> 
+  <li>npm install</li>
+  <li>npm run start / npm start</li>
+</ul>
+
+
+<br><br><br>
+
  
 <br>
 
