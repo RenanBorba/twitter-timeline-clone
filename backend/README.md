@@ -32,7 +32,15 @@ O projeto é voltado para adaptação da aplicação da Semana Omnistack 0.5 da 
 
 <br><br>
 
-#### Segue abaixo as principais estruturas: 
+## :arrow_forward: Start
+<ul> 
+  <li>npm install</li>
+  <li>npm run dev / npm dev</li>
+</ul>
+
+<br><br><br>
+
+## :mega: Segue abaixo as principais estruturas: 
 <br><br><br>
 
 ## src/routes.js 
