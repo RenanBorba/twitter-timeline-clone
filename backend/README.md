@@ -48,10 +48,11 @@ O projeto é voltado para adaptação da aplicação da Semana Omnistack 0.5 da 
 
 <br><br><br>
 
-## :mega: Segue abaixo as principais estruturas: 
+## :mega: Segue abaixo as principais estruturas:
+
 <br><br><br>
 
-## src/routes.js 
+## src/routes.js
 ```js
 const express = require('express');
 
@@ -70,7 +71,7 @@ module.exports = routes;
 
 <br><br>
 
-## src/models/Tweet.js 
+## src/models/Tweet.js
 ```js
 const mongoose = require('mongoose');
 
@@ -121,7 +122,7 @@ module.exports = {
 
 <br><br>
 
-## src/controllers/LikeController.js 
+## src/controllers/LikeController.js
 ```js
 const Tweet = require('../models/Tweet');
 
@@ -147,5 +148,4 @@ module.exports = {
 <br><br>
 
 <br>
-
 Renan Borba.
