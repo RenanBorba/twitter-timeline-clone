@@ -44,14 +44,14 @@ O projeto é voltado para adaptação da aplicação da Semana Omnistack 0.5 da 
 <br><br>
 
 ## :arrow_forward: Start
-<ul> 
+<ul>
   <li>npm install</li>
   <li>npm run start / npm start</li>
 </ul>
 
 <br><br><br>
 
-## :mega: Segue abaixo as principais estruturas e interfaces: 
+## :mega: Segue abaixo as principais estruturas e interfaces:
 
 <br><br><br>
 
@@ -114,7 +114,7 @@ export default function Tweet(props) {
 <br><br>
 
 
-## src/pages/Login.js 
+## src/pages/Login.js
 ```js
 import React, { useState } from 'react';
 
@@ -169,7 +169,7 @@ export default Login;
 <br><br><br>
 
 
-## src/pages/Timeline.js 
+## src/pages/Timeline.js
 ```js
 import React, { useState, useEffect } from 'react';
 import api from '../services/api';
@@ -258,13 +258,13 @@ export default Timeline;
 
 <br><br><br>
 
-## Usuário enviando um novo tweet  
+## Usuário enviando um novo tweet
 
 ![03](https://user-images.githubusercontent.com/48495838/76801253-07bfb580-67b4-11ea-88e0-e2c2f36b8d02.PNG)
 
 <br><br><br>
 
-### Interface após o usuário enviar o tweet  
+### Interface após o usuário enviar o tweet
 
 <br>
 
