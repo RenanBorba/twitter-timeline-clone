@@ -41,7 +41,7 @@ O projeto é voltado para adaptação da aplicação da Semana Omnistack 0.5 da 
 <br><br>
 
 ## :arrow_forward: Start
-<ul> 
+<ul>
   <li>npm install</li>
   <li>npm run dev / npm dev</li>
 </ul>
@@ -148,4 +148,5 @@ module.exports = {
 <br><br>
 
 <br>
+
 Renan Borba.
