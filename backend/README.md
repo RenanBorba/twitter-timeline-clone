@@ -29,13 +29,13 @@ O projeto é voltado para adaptação da aplicação da Semana Omnistack 0.5 da 
 
 ## :rocket: Tecnologias
 <ul>
-  <li>Nodemon</li>  
+  <li>Nodemon</li>
   <li>MongoDB</li>
   <li>Mongoose</li>
   <li>Routes</li>
   <li>Express</li>
-  <li>Cors</li> 
-  <li>socket.io Websocket</li> 
+  <li>Cors</li>
+  <li>socket.io Websocket</li>
 </ul>
 
 <br><br>
@@ -146,7 +146,6 @@ module.exports = {
 ```
 
 <br><br>
-
 <br>
 
 Renan Borba.
