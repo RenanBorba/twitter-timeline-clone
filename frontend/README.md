@@ -27,12 +27,12 @@ O projeto é voltado para adaptação da aplicação da Semana Omnistack 0.5 da 
 
 ## :rocket: Tecnologias
 <ul>
-  <li>Components</li>  
+  <li>Components</li>
   <li>Routes</li>
   <li>react-router-dom</li>
   <li>Services API</li>
-  <li>Axios</li> 
-  <li>localStorage</li> 
+  <li>Axios</li>
+  <li>localStorage</li>
   <li>useState</li>
   <li>useEffect</li>
   <li>socket.io-client Websocket</li>
