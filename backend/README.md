@@ -145,7 +145,6 @@ module.exports = {
 };
 ```
 
-<br><br>
-<br>
+<br><br><br>
 
 Renan Borba.
