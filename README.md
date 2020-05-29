@@ -84,6 +84,7 @@ O projeto é voltado para adaptação da aplicação da Semana Omnistack 0.5 da 
 
 ![03](https://user-images.githubusercontent.com/48495838/76801253-07bfb580-67b4-11ea-88e0-e2c2f36b8d02.PNG)
 
-<br><br><br>
+<br><br>
+<br>
 
 Renan Borba.
