@@ -76,7 +76,24 @@ O projeto é voltado para adaptação da aplicação da Semana Omnistack 0.5 da 
 </ul>
 
 <br><br>
-<br>
+
+## :punch: Como contribuir 
+<ul>
+  <li>Dê um fork nesse repositório</li>
+  <li>Crie a sua branch com a feature</li>
+    <ul>
+      <li>git checkout -b my-feature</li>
+    </ul>
+  <li>Commit a sua contribuição</li>
+    <ul>
+      <li>git commit -m 'feat: My feature'</li>
+    </ul>
+  <li>Push a sua branch</li>
+    <ul>
+      <li>git push origin my-feature</li>
+    </ul>
+</ul>
+<br><br><br>
 
 ![01](https://user-images.githubusercontent.com/48495838/76801247-05f5f200-67b4-11ea-8daa-c0904c335d25.PNG)
 
