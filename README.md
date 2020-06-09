@@ -77,7 +77,7 @@ O projeto é voltado para adaptação da aplicação da Semana Omnistack 0.5 da 
 
 <br><br>
 
-## :punch: Como contribuir 
+## :punch: Como contribuir
 <ul>
   <li>Dê um fork nesse repositório</li>
   <li>Crie a sua branch com a feature</li>
