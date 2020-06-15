@@ -27,6 +27,14 @@ O projeto é voltado para adaptação da aplicação da Semana Omnistack 0.5 da 
 
 <br><br>
 
+<div align="center">
+
+![twitter](https://user-images.githubusercontent.com/48495838/84697023-c7dbac00-af23-11ea-8b66-1a314fd895dd.png)
+
+</div>
+
+<br><br>
+
 ## :rocket: Tecnologias
 ### Node.js
 <ul>
@@ -93,15 +101,6 @@ O projeto é voltado para adaptação da aplicação da Semana Omnistack 0.5 da 
       <li>git push origin my-feature</li>
     </ul>
 </ul>
-
-<br><br>
-<br>
-
-![01](https://user-images.githubusercontent.com/48495838/76801247-05f5f200-67b4-11ea-8daa-c0904c335d25.PNG)
-
-<br>
-
-![03](https://user-images.githubusercontent.com/48495838/76801253-07bfb580-67b4-11ea-88e0-e2c2f36b8d02.PNG)
 
 <br><br>
 <br>
