@@ -102,7 +102,6 @@ O projeto é voltado para adaptação da aplicação da Semana Omnistack 0.5 da 
     </ul>
 </ul>
 
-<br><br>
-<br>
+<br><br><br>
 
 Renan Borba.
