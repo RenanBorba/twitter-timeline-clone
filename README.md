@@ -8,13 +8,9 @@
 
 <div align="center">
 
-[![Build Status](https://img.shields.io/github/stars/RenanBorba/twitter-clone.svg)](https://github.com/RenanBorba/twitter-clone) [![Build Status](https://img.shields.io/github/forks/RenanBorba/twitter-clone.svg)](https://github.com/RenanBorba/twitter-clone)
-
-</div>
+[![Generic badge](https://img.shields.io/badge/Made%20by-Renan%20Borba-purple.svg)](https://shields.io/) [![Build Status](https://img.shields.io/github/stars/RenanBorba/twitter-clone.svg)](https://github.com/RenanBorba/twitter-clone) [![Build Status](https://img.shields.io/github/forks/RenanBorba/twitter-clone.svg)](https://github.com/RenanBorba/twitter-clone) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 <br>
-
-<div align="center">
 
 ![000](https://user-images.githubusercontent.com/48495838/80153492-04c69a80-8594-11ea-94de-2a5552189088.jpg)
 
