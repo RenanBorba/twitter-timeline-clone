@@ -97,8 +97,3 @@ O projeto é voltado para adaptação da aplicação da Semana Omnistack 0.5 da 
       <li>git push origin my-feature</li>
     </ul>
 </ul>
-
-<br><br>
-<br>
-
-Renan Borba.
