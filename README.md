@@ -25,7 +25,7 @@ O projeto é voltado para adaptação da aplicação da Semana Omnistack 5.0 da 
 
 <div align="center">
 
-![home](https://user-images.githubusercontent.com/48495838/127666592-64bece40-3d45-4c7d-afa8-be0099fe498d.png)
+![home](https://user-images.githubusercontent.com/48495838/127915880-b2756599-e2f4-4f7b-9055-3a128d48cf84.png)
   
 </div>
 
