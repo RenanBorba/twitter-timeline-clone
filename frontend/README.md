@@ -47,7 +47,7 @@ O projeto é voltado para adaptação da aplicação da Semana Omnistack 5.0 da 
 
 <br><br><br>
 
-## :mega: Segue abaixo as principais estruturas e interfaces:
+## :mega: ⬇ Abaixo as principais estruturas e interfaces:
 
 <br><br><br>
 
