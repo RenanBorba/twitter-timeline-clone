@@ -12,7 +12,7 @@
 
 <br>
   
-![000](https://user-images.githubusercontent.com/48495838/80153492-04c69a80-8594-11ea-94de-2a5552189088.jpg)
+![twitter](https://github.com/RenanBorba/react-native-realm/assets/48495838/465f3ce3-2304-47c0-91c6-9aaeefde667e)
 
 </div>
 
