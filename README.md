@@ -1,6 +1,6 @@
 <div align="center">
 
-# Projeto - Aplicação Twitter Clone
+# Projeto - Aplicação Twitter Timeline Clone
 
 </div>
 
