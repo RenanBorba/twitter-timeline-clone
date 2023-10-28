@@ -18,7 +18,7 @@
 
 <br>
 
-Aplicação para clone da principal interface do Twitter (Timeline), além da interface inicial de login, possibilitando aos usuários enviar e receber atualizações pessoais de outros usuários. Permite, assim, a atualização em tempo real dos likes nos tweets via WebSocket.<br>
+Aplicação para clone da Timeline, principal interface do Twitter, além da tela inicial de login, possibilitando aos usuários enviar e receber atualizações pessoais de outros usuários. Permite, assim, a atualização em tempo real dos likes nos tweets via WebSocket.<br>
 O projeto é voltado para estudo das funcionalidades de React Function Components e React Hooks (useState e useEffect).
 
 <br><br>
